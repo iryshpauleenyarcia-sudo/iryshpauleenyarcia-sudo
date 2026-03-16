@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Irysh! 👋
 
-<!--
-**iryshpauleenyarcia-sudo/iryshpauleenyarcia-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about Web Design and Development. I thrive on solving intricate problems and architecting elegant solutions. My journey in tech commenced with the BS Information Technology program.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educational
+
+**BS Information Technology**
+
+* **School:** New Era University
+* **Course:** Bachelor of Science in Information Technology
+* **Year Level:** 2nd Year
